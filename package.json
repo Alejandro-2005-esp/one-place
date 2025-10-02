@@ -2,5 +2,23 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.1.13",
     "tailwindcss": "^4.1.13"
-  }
+  },
+  "name": "one-place",
+  "version": "1.0.0",
+  "description": "The project of the website one-place",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejandro-2005-esp/one-place.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alejandro-2005-esp/one-place/issues"
+  },
+  "homepage": "https://github.com/Alejandro-2005-esp/one-place#readme"
 }
