@@ -6,8 +6,12 @@ import LoadMoreBtn from '../components/LoadMoreBtn'
 function Mainpage(){
     return(
         <div>
-            <h1>WINTER COLLECTION</h1>
+            <div>
+                <h1>WINTER</h1>
+                <h1>COLLECTION</h1>
             < ViewAllBtn />
+            </div>
+            
             <div>
                 <h2>NEW ITEMS</h2>
                 < SellAllBtn />
